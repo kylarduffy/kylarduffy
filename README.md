@@ -1,15 +1,15 @@
 # Hi, I'm Kylar :)
 
-I'm a Master of Marine Biology student at James Cook University with interests in
-marine conservation, small-scale fisheries, social science and marine megafauna.
+I'm a Master of Marine Biology student at James Cook University, with a background in marine and environmental science. My interests include marine conservation, fisheries, marine megafauna and coral reef ecosystems, particularly sea turtle conservation.
+
+I'm developing my programming and quantitative analysis skills to explore ecological questions, visualise marine datasets and support evidence-based conservation research.
 
 ## About me
 
-- Currently completing my Master of Marine Biology at James Cook University 🎓
-- Interested in marine conservation and human interactions with marine ecosystems 
-- Experienced in sea turtle conservation 🐢, rehabilitation and fieldwork 
-- Developing skills in R, ecological data analysis and reproducible research
-- Experienced in marine fieldwork, including underwater visual surveys 🤿 and ecological data collection
+- Experience in sea turtle conservation, rehabilitation and fieldwork 🐢
+- Practical marine research experience, including underwater visual surveys 🤿 and reef monitoring
+- Developing skills in R programming, statistical analysis and reproducible ecological research 📊
+- Interested in applying quantitative approaches to marine conservation and fisheries management
 
 ## Technical skills
 
@@ -17,13 +17,14 @@ marine conservation, small-scale fisheries, social science and marine megafauna.
 - Git & GitHub
 - Quarto / R Markdown
 - Ecological data analysis
-- Data visualisation with ggplot2
-- ArcGIS Pro
+- Data visualisation
 
 ## Current work
 
 Explore my repositories to see projects from my Master of Marine Biology,
 including marine data analysis, visualisation and reproducible research.
+
+🔗 [Explore my ePortfolio](https://sites.google.com/view/kylarduffy/home)
 
 🐠 [View my repositories](https://github.com/kylarduffy?tab=repositories)
 
